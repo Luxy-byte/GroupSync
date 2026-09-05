@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Node / frontend
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Python / backend
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Misc
+Thumbs.db
